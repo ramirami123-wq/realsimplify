@@ -136,7 +136,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#0497A7",
+        "background": "#0497a7",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""
@@ -148,10 +148,11 @@
         "item_pUAUTj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-06-17_at_3.13.32_PM.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Adjustable Tint Technology",
-            "content": "<p>Experience clear vision in every environment with lenses that adapt to changing light conditions for maximum comfort.</p><h3></h3>"
+            "title": "Control Your Phone with a Simple Touch",
+            "content": "<p><br/>Experience a smarter way to browse your favorite content. With this wireless smart ring, you can scroll videos, like posts, adjust volume, and play or pause media without touching your phone. Perfect for TikTok, Instagram Reels, YouTube Shorts, and more.<br/><br/></p><h3></h3>"
           }
         }
       },
@@ -182,7 +183,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#0497A7",
+        "background": "#0497a7",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""
@@ -194,10 +195,11 @@
         "item_7ffkaP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-06-17_at_3.13.30_PM.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Premium Style & Protection",
-            "content": "<p>Designed with a durable aluminum frame and UV400 protection to keep you stylish while protecting your eyes outdoors.</p>"
+            "title": "Hands-Free Convenience Anywhere",
+            "content": "<p><br/>Enjoy effortless control from up to 10 meters away. Whether you're relaxing, working out, recording content, or presenting, this smart remote ring gives you complete control while keeping your hands free and your experience seamless<br/><br/></p>"
           }
         }
       },
@@ -216,6 +218,19 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "custom_liquid_LGQchb": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.benefits-table{\n  width:100%;\n  border-collapse:collapse;\n  font-size:15px;\n  margin:20px 0;\n  border-radius:14px;\n  overflow:hidden;\n  box-shadow:0 4px 14px rgba(0,0,0,0.08);\n}\n.benefits-table th{\n  background:#0497a7;\n  color:#fff;\n  padding:14px;\n  text-align:center;\n}\n.benefits-table td{\n  padding:13px;\n  border-bottom:1px solid #eee;\n  text-align:center;\n}\n.benefits-table td:first-child{\n  text-align:left;\n  font-weight:600;\n}\n.benefits-table tr:nth-child(even){\n  background:#f8fafa;\n}\n.yes{\n  color:#0497a7;\n  font-weight:800;\n}\n.no{\n  color:#999;\n  font-weight:800;\n}\n</style>\n\n<table class=\"benefits-table\">\n  <tr>\n    <th>Benefits</th>\n    <th>Our Smart Ring</th>\n    <th>Others</th>\n  </tr>\n  <tr>\n    <td>Hands-Free Scrolling</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n  <tr>\n    <td>Like Videos with Double Click</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n  <tr>\n    <td>Play / Pause Control</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n  <tr>\n    <td>Volume Control</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n  <tr>\n    <td>10m Wireless Range</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n  <tr>\n    <td>Charging Case Included</td>\n    <td class=\"yes\">YES</td>\n    <td class=\"no\">NO</td>\n  </tr>\n</table>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "slideshow_Pk7FBg": {
@@ -240,29 +255,29 @@
         "item_Wg8g8E": {
           "type": "item",
           "settings": {
-            "title": "How does the adjustable tint work?",
-            "content": "<p><br/>The lenses adapt to different lighting conditions, helping reduce glare and improve visibility outdoors.<br/></p>"
+            "title": "Which apps does the Smart Ring work with?",
+            "content": "<p><br/>It works with TikTok, Instagram Reels, YouTube Shorts, Facebook, eBooks, and many other scrolling and media apps.<br/><br/></p>"
           }
         },
         "item_8yizQD": {
           "type": "item",
           "settings": {
-            "title": "Are the sunglasses suitable for both men and women?",
-            "content": "<p><br/>Yes, the modern round design is made to suit both men and women.<br/><br/></p>"
+            "title": "Do I need to install any app?",
+            "content": "<p>No. Simply connect the ring via Bluetooth and start using it instantly.</p>"
           }
         },
         "item_Apj6NA": {
           "type": "item",
           "settings": {
-            "title": "Do these sunglasses provide UV protection?",
-            "content": "<p><br/>Yes, the sunglasses offer UV400 protection against harmful sun rays.<br/><br/></p>"
+            "title": "How far can I control my phone from?",
+            "content": "<p> The Smart Ring has a wireless control range of up to 10 meters (33 feet).</p>"
           }
         },
         "item_tK9h6f": {
           "type": "item",
           "settings": {
-            "title": "What material is the frame made from?",
-            "content": "<p>The frame is made from durable aluminum alloy for long-lasting comfort and strength.</p>"
+            "title": "Can I like videos without touching my phone?",
+            "content": "<p>Yes! A simple double-click allows you to like videos while browsing.</p>"
           }
         }
       },
@@ -327,6 +342,7 @@
     "images_with_text_scrolling_Ane7LP",
     "scrolling_text_qBXBG4",
     "images_with_text_scrolling_HnL6DC",
+    "custom_liquid_LGQchb",
     "slideshow_Pk7FBg",
     "faq_hnHpnX",
     "17789057653ac76002"
